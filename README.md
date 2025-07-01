@@ -18,5 +18,5 @@
 - Скрины
 
 ---
-Для связи: [tg](t.me/etot_kakegotam)
-Обо мне: [сайт](podojdite.github.io) 
+Соц. сети: [Telegram](https://t.me/etot_kakegotam)  
+Обо мне: [Сайт-визитка](https://podojdite.github.io) 
