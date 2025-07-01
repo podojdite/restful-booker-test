@@ -20,4 +20,4 @@
 - Скрины
 
 ---
-[Обо мне][podojdite.github.io]  
+[Обо мне](podojdite.github.io) 
